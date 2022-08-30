@@ -8,7 +8,9 @@ the flow chart of a data-driven project from idea to divulgation, the concepts o
 
 Lab: setting up github repositories, making a jupyter notebooks (on colab free platform)
 ### Data manipulation: 
-Data types, missing data, censored data, organization of data in tables. Data hygiene Lab: Acquiring and preparing data (CSV, TSV, downloadable ascii files, basic SQL, API) in Pandas: merging data from different files, reading data collections from CSV files into data frames, selecting columns, selecting rows, merging data frames
+Data types, missing data, censored data, organization of data in tables. Data hygiene 
+
+Lab: Acquiring and preparing data (CSV, TSV, downloadable ascii files, basic SQL, API) in Pandas: merging data from different files, reading data collections from CSV files into data frames, selecting columns, selecting rows, merging data frames
 ### Inference and  prediction: 
 Inference from plots: plotting histograms and scatter plots, data types incl ordinal, continuous, categorical data, visual inspection of correlation between variables Lab: read and clean data, Citibikes, Pluto, Census
 ### Text analysis: text processing and inference from text
