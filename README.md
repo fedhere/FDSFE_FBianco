@@ -4,7 +4,8 @@ Repo for Foundations of Data Science for Everyone - class taught at Lincoln Univ
 This course will teach the basics of data-driven research. Students will acquire basic computational skills, basic knowledge of statistical analysis, error analysis, familiarize with good practices for handling small- and big-data, and the basics of Machine Learning. After this class students should be able to formulate a question, find appropriate data to answer the question, prepare and analyze the data, get an answer, and understand the answer’s confidence level. The course will be organized in a modular fashion, with labs and projects assigned to students for group work.
 
 ### Philosophy and good practices of data science: 
-the flow chart of a data-driven project from idea to divulgation, the concepts of falsifiability, reproducibility, open science, the importance of version control, Lab: github repositories, setting up your environment, jupyter notebooks (on colab free platform)
+the flow chart of a data-driven project from idea to divulgation, the concepts of falsifiability, reproducibility, open science, the importance of version control
+Lab: setting up github repositories, making a jupyter notebooks (on colab free platform)
 ### Data manipulation: 
 Data types, missing data, censored data, organization of data in tables. Data hygiene Lab: Acquiring and preparing data (CSV, TSV, downloadable ascii files, basic SQL, API) in Pandas: merging data from different files, reading data collections from CSV files into data frames, selecting columns, selecting rows, merging data frames
 ### Inference and  prediction: 
