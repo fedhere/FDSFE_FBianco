@@ -51,6 +51,7 @@ Academic Calendar - LU and UD have different calendars. Stay tuned for modificat
 
 ### Useful free books and articles
 
+*   [Python Data Science Handbook](https://www.academia.edu/40917232/Python_Data_Science_Handbook)
 *   [Python Crash Course book](https://www.academia.edu/39951012/Eric_Matthes_Python_Crash_Course_A_Hands_On_Project_Based_Introduction_to_Programming_No_Starch_Press_2019_)
 *   [Data Science from Scratch - Joel Grus](https://www.m-fozouni.ir/wp-content/uploads/2020/08/Joel_Grus_Data_Science_from_Scratch_First_Princ.pdf)
 *   [Think Python - Allen B. Downey](http://greenteapress.com/thinkpython/thinkpython.pdf)
