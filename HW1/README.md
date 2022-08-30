@@ -3,7 +3,7 @@
 (more instructions will be uploaded)
 
 - make an account on GitHub if you do not have one yet
-[!img](../imgs/Screen Shot 2022-08-30 at 2.45.43 PM.png)
+![img](../imgs/Screen Shot 2022-08-30 at 2.45.43 PM.png)
 - Create a repository called FDSfE_<firstinitialLastname>
 - Add a README file to your repository that indicates that this is the repo for Foundations of Data Science
   
