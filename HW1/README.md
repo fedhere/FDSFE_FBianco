@@ -14,4 +14,3 @@
   <img src="../imgs/Screen Shot 2022-08-30 at 3.22.39 PM.png" width=500>
 
 - upload to your github repo the colab notebook we have worked on in class. the colab notebooks should appear in a folder HW1 and have a google colab link (more instructions will appear on github)
-<img src="../imgs/Screen Shot 2022-08-30 at 2.45.43 PM.png" width=500>
