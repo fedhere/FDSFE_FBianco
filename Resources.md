@@ -29,6 +29,7 @@ Academic Calendar - LU and UD have different calendars. Stay tuned for modificat
 
 ### Python resources
 
+*   [Python Crash Course book] (https://www.academia.edu/39951012/Eric_Matthes_Python_Crash_Course_A_Hands_On_Project_Based_Introduction_to_Programming_No_Starch_Press_2019_)
 *   [Mohit's excellent python guide for the CUSP bootcamp](https://sharmamohit.com/work/courses/ucsl/)
 *   [the zen of python](https://www.python.org/dev/peps/pep-0020/)
 *   [PEP8 python guide style](https://www.python.org/dev/peps/pep-0008/)
