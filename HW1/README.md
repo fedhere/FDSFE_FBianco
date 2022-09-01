@@ -1,10 +1,10 @@
 # HW 1
 
-## Reading 
+## Reading: Due before tuesday's class
 
 "What is the question?" Leek & Peng 2011. You can find the PDF on slack in the #reading channel
 
-# Assignment 1
+# Assignment 1: Due on Wednesday 7th at 11:59PM
 - make an account on GitHub if you do not have one yet. Here are some screenshots that describe the process (note that I have an account with username fedhere, as you know, in the screenshots below I am pretending to make a new one as if I did not have one)
 
 <img src="../imgs/Screen Shot 2022-08-30 at 2.45.43 PM.png" width=500>
@@ -28,3 +28,4 @@ my first initial is F, my last name is Bianco, so mine is FDSfE\_FBianco
 <img src="../imgs/Screen Shot 2022-09-01 at 6.34.21 PM.png" width=500>
 <img src="../imgs/Screen Shot 2022-09-01 at 6.34.06 PM.png" width=500>
 
+- post your github repo URL on canvas
