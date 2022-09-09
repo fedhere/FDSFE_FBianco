@@ -11,8 +11,10 @@ follow the instructions in [this notebook](https://github.com/fedhere/FDSfE_FBia
 For each assignment open in collab the scheleton notebook and edit it. When you are done, Restart the kernel, Runn all, then (veryfing that there are no bugs and iterating bug fixes and Restart-Run all till  the notebook works with no errors) save the notebook on Github in your own repo in a folder HW2
 
 
-![...](../imgs/Screen\ Shot\ 2022-09-09\ at\ 12.00.57\ PM.png)
+<img src="../imgs/Screen Shot 2022-09-09 at 12.00.57 PM.png" width=500>
 
-Screen Shot 2022-09-09 at 12.01.38 PM.png
 
-Screen Shot 2022-09-09 at 12.01.28 PM.png
+<img src="../imgs/Screen Shot 2022-09-09 at 12.01.38 PM.png" width=500>
+
+
+<img src="../imgs/Screen Shot 2022-09-09 at 12.01.28 PM.png" width=500>
