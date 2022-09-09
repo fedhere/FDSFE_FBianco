@@ -8,4 +8,6 @@ follow the instructions in [this notebook](https://github.com/fedhere/FDSfE_FBia
 ## Assignment 2
 follow the instructions in [this notebook](https://github.com/fedhere/FDSfE_FBianco/blob/main/HW2/happiness_instructions.ipynb)
 
-For each assignment open in collab the scheleton notebook and edit it. When you are done, restart the kernel, Runn all, then Save on Github in your own repo in a folder HW2
+For each assignment open in collab the scheleton notebook and edit it. When you are done, Restart the kernel, Runn all, then (veryfing that there are no bugs and iterating bug fixes and Restart-Run all till  the notebook works with no errors) save the notebook on Github in your own repo in a folder HW2
+
+
