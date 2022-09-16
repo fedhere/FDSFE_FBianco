@@ -1,10 +1,12 @@
-READING: Understanding Descriptive Statistics https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291
+# READING: 
+Understanding Descriptive Statistics https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291
 Due before Tuesday's class
 
-ASSIGNMENT: follow the notebook instructions in this folder
+# ASSIGNMENT: 
+follow the notebook instructions in this folder
 
 
-FROM THIS WEEK ON: you will be penalized if your Github repo has the wrong structure (e.g. missing folders for homeworks) and if your HW folder misses the README file
+## NOTE : FROM THIS WEEK ON you will be penalized if your Github repo has the wrong structure (e.g. missing folders for homeworks) and if your HW folder misses the README file
 
 The readme file needs to state  in your own work
 
