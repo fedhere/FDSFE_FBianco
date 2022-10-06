@@ -1,6 +1,6 @@
 # Due 10/12 at midnight
 
-You have to upload a _working_ notebook to your repo under folder HW4 based on 
+Upload a _working_ notebook to your repo under folder HW4 based on 
 
 https://github.com/fedhere/FDSfE_FBianco/blob/main/classdemo/linear_regression_in_detail.ipynb
 
