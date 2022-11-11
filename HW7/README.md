@@ -5,7 +5,13 @@ _On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜_
 https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf
 
 # Assignment: Follow the notebook 
-the only step that remains is to perform the sentiment analysis.
+the only steps that remains are:
+- do the word cloud for the Sentiment==0 and Sentiment==4 reviews. 
+
+remember to comment on your figures? describe what a word cloud is and how to interpret it and highlight the differences beteeen Sentiment==0 and ==4
+
+- perform the sentiment analysis.
+
 You are using a pretrained model that weights each word independently by its positive/negative weight and sums the weights of all words. 
 
 NOTE: 
