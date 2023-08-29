@@ -5,7 +5,7 @@
 Instructors: [Dr. Federica Bianco](http://fbb.space)  
 contact: fbianco@udel.edu  
 Synchronous online class  
-Mon-Wed 3:35-4:50pm  
+Tue-Thu 3:35-4:50pm  
   
   
 Attendence is required.
