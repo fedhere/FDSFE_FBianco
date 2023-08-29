@@ -22,9 +22,9 @@ Academic Calendar - LU and UD have different calendars. Stay tuned for modificat
 ### Class material
 
 *   [lecture slides will be posted here, hopefully well in advance](https://slides.com/federicabianco/decks/fdsfe)
-*   [Github homework repository](https://github.com/fedhere/FDSfE)
+*   [Github homework repository](https://github.com/fedhere/FDSfE_FBianco)
 *   [computing will be done in the google cloud](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-*   [Python Bootcamp material.](https://github.com/fedhere/PyBOOT)
+*   [Python crashcourse](https://github.com/fedhere/FDSFE_FBianco/blob/main/pythoncrashcourse.ipynb) and [Bootcamp material](https://github.com/fedhere/PyBOOT)
 *   [data we are using will be here](data) or on github
 
 ### Python resources
