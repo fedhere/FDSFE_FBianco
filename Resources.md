@@ -37,17 +37,11 @@ Academic Calendar - LU and UD have different calendars. Stay tuned for modificat
 *   [Matplotlib cheat-sheet 1](https://matplotlib.org/cheatsheets/_images/cheatsheets-1.png)
 *   [Matplotlib cheat-sheet 2](https://matplotlib.org/cheatsheets/_images/cheatsheets-2.png)
 
-### Bash, Git, Github resources
+### Git & Github resources
 
-*   [bash tutorials by Ryan Chadwick](http://ryanstutorials.net/linuxtutorial/)
-*   [Git Reference Manual](https://git-scm.com/doc)
 *   [Dr. Phil Marshall github tutorial + link to video tutorial](https://github.com/drphilmarshall/GettingStarted#contributing)
 *   [github cheet sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
-### Software and Apps
-
-*   [online statistical tables](https://home.ubalt.edu/ntsbarsh/Business-stat/StatistialTables.pdf)
-*   [CartoDB based Pluto data downloader](http://chriswhong.github.io/plutoplus/)
+*   [Git Reference Manual](https://git-scm.com/doc)
 
 ### Useful free books and articles
 
@@ -58,3 +52,9 @@ Academic Calendar - LU and UD have different calendars. Stay tuned for modificat
 *   [Data Jujitsu - DJ Patil](https://documents.pub/document/data-jujitsu.html)
 *   [Online Statistics Book - David Lane](http://onlinestatbook.com/)
 *   [O'Reilly Data Ebook Archive (83 free downloads)](https://www.oreilly.com/data/free/archive.html)
+
+### Environments, Software, and Apps
+
+*   [online statistical tables](https://home.ubalt.edu/ntsbarsh/Business-stat/StatistialTables.pdf)
+*   [CartoDB based Pluto data downloader](http://chriswhong.github.io/plutoplus/)
+*   [bash tutorials by Ryan Chadwick](http://ryanstutorials.net/linuxtutorial/)
