@@ -35,7 +35,7 @@ Academic Calendar - LU and UD have different calendars. Stay tuned for modificat
 *   [@Mark\_Graph python cheat-sheet](https://drive.google.com/drive/folders/1hwRBD61Zc0_wcq_hpBKF6g60pMDiVJww)
 *   [@Mark\_Graph Pandas cheat-sheet](https://drive.google.com/drive/folders/1hwRBD61Zc0_wcq_hpBKF6g60pMDiVJww)
 *   [Matplotlib cheat-sheet 1](https://matplotlib.org/cheatsheets/_images/cheatsheets-1.png)
-*   [Matplotlib cheat-sheet 1](https://matplotlib.org/cheatsheets/_images/cheatsheets-2.png)
+*   [Matplotlib cheat-sheet 2](https://matplotlib.org/cheatsheets/_images/cheatsheets-2.png)
 
 ### Bash, Git, Github resources
 
