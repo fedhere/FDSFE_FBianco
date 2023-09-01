@@ -18,7 +18,7 @@ To create the GitHub repository follow the steps below:
   <img width="838" alt="Screen Shot 2023-08-28 at 3 07 08 PM" src="https://github.com/fedhere/DSPS_FBianco/assets/1696902/1f043825-f33f-4f8a-8956-90b5a72cd23a">
 
   Then create the repo called FDSFE_\<firstinitialLastname\> (for me that is FDSFE_FBianco)
-  Go to github.com - now it will look different!
+  Go to github.com - now it will look different! - note: the examples say DSPS_FBianco because they were created for another class, use FDSFE instead of DSPS
   
   <img width="838" alt="Screen Shot 2023-08-28 at 3 09 32 PM" src="https://github.com/fedhere/DSPS_FBianco/assets/1696902/d084e9fb-ed1e-41fd-a1c0-bb247fe2df46">
 
