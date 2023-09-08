@@ -22,5 +22,7 @@ Create a README.md in the HW2 folder that stated:
 - who did you work with?
 - did you lead any of the work in your group? what where your specific contributions (if you were not ready to lead any aspect that is perfectly ok, just state so! but you and your group mates should have _consistent_ statements)
  
-<img width="914" alt="Screen Shot 2023-09-08 at 9 52 57 AM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/8fef9ea5-6c91-41ac-996c-e9404243ae96">
+
 <img width="899" alt="Screen Shot 2023-09-08 at 9 52 44 AM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/d08d3333-bb3b-432c-8b3b-e1a1980f0c68">
+
+<img width="914" alt="Screen Shot 2023-09-08 at 9 52 57 AM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/8fef9ea5-6c91-41ac-996c-e9404243ae96">
