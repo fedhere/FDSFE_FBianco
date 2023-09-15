@@ -6,7 +6,7 @@ https://www.nature.com/articles/d41586-019-00857-9
 # HOMEWORK
 
 ## Assignment 1
-follow the instructions in [this notebook](https://github.com/fedhere/FDSfE_FBianco/blob/main/HW2/happiness_instructions.ipynb)
+follow the instructions in [this notebook](https://github.com/fedhere/FDSFE_FBianco/blob/main/HW3/happiness_instructions.ipynb)
 
 Rely heavily on the exploratory data analysis done last week on the video and in the example notebook 
 https://github.com/fedhere/FDSFE_FBianco/blob/main/CodeExamples/movies_exploratory.ipynb
