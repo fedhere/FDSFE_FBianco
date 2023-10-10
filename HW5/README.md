@@ -1,4 +1,4 @@
-due 10/16
+due 10/17 before class
 
 ## READING: 
 
