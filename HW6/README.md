@@ -26,9 +26,9 @@ Make sure that at the end, you have an account that you can log in with, and be 
   <img width="627" alt="Screen Shot 2023-10-21 at 1 28 43 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/2d92102f-79ab-4eb7-ae86-f71ca14d706a">
 
 - scroll down to API and click create New API Token. This will download a json file on your computer
-<img width="855" alt="Screen Shot 2023-10-21 at 1 23 57 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/7f20186c-5ec0-4fc2-97ac-18bd364d502e">
-<img width="654" alt="Screen Shot 2023-10-21 at 1 24 10 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/b81889b6-057f-479a-a5d5-490c67908591">
-
+- 
+<img width="654" alt="Screen Shot 2023-10-21 at 1 24 10 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/8ab3ae90-9c4d-4ee9-8442-b28dce975fd4">
+<img width="855" alt="Screen Shot 2023-10-21 at 1 23 57 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/0de116d5-56c2-4024-877d-518972de8a16">
 
 - open google drive at https://drive.google.com/drive/u/0/my-drive in your browser
 - upload (e.g. dragna and drop) the kaggle.json file from your laptop to the drive
