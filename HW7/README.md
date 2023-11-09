@@ -1,4 +1,4 @@
-Part 1: find a bad plot and a good plot by looking through papers on https://journals.plos.org/plosone/Links to an external site.
+Part 1: find a bad plot and a good plot by looking through papers on https://journals.plos.org/plosone to an external site.
 .   Download the image or screenshot it and post it to your HW7 README.md. The README.md should contain each of the two images, a description of why it is good/bad based on the criteria discussed in class for data and scientific visualizations.
 
 
