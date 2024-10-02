@@ -2,7 +2,8 @@
 No reading this week
 
 # ASSIGNMENT: 
-follow the notebook instructions in this folder 
+follow the [notebook instructions in this folder ](https://github.com/fedhere/FDSFE_FBianco/blob/main/HW4/ExamScore_linear_regression.ipynb)
+
 - add captions to the figures and tables of the notebook done in class
 
 - Linear Regression tips: 
