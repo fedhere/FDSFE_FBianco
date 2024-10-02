@@ -18,6 +18,14 @@ tip: used a dataframe as input variable.
 - when you do multivariate linear regression, your X variable will look for example `df[["Attendance", "Hours_Studied"]]`
 
 
+- note: I am asking for a different plot than the plots done in the linear regression class. In class you were showing the dependent variable (y) vs the independent variable VS the prediction for y agains the independent variable. here you are showing  the prediction VS the dependent variable. if the prediction was perfect, the points would align along the diagonal of the plot. The code should look like:
+  
+```
+y_prediction = model.predict(X)
+plt.plot(y_prediction, y, '.') #this makes the scatter plot
+plt.plot(y, y, "-") #this plots a diagonal line
+```
+
 ## NOTE : FROM THIS WEEK ON you will be penalized if your Github repo has the wrong structure (e.g. missing folders for homeworks) and if your HW folder misses the README file
 
 The readme file needs to state  in your own work
