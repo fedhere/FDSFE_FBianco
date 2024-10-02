@@ -25,6 +25,7 @@ y_prediction = model.predict(X)
 plt.plot(y_prediction, y, '.') #this makes the scatter plot
 plt.plot(y, y, "-") #this plots a diagonal line
 ```
+and remember you need to put axis labels on the plot and captions!
 
 ## NOTE : FROM THIS WEEK ON you will be penalized if your Github repo has the wrong structure (e.g. missing folders for homeworks) and if your HW folder misses the README file
 
