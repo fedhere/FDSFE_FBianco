@@ -1,8 +1,8 @@
   # READING: 
-No reading this week - instead *think* about p-value. When you hear the news, when you talk about theories and models in other classes, how would you test them in the Null Hypothesis Rejection Testing frameworks? what are the Null and Alternative? what would you measure?
+No reading this week
 
 # ASSIGNMENT: 
-follow the notebook instructions in this folder
+follow the notebook instructions in this folder 
 
 
 ## NOTE : FROM THIS WEEK ON you will be penalized if your Github repo has the wrong structure (e.g. missing folders for homeworks) and if your HW folder misses the README file
