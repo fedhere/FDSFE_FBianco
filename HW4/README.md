@@ -14,7 +14,7 @@ tip: used a dataframe as input variable.
 - when you need to do a univariate linear regression make a dataframe with one column: e.g. `df[["Attendance"]]` : NOTE THE DOUBLE PARENTHESIS! `df[["Attendance"]]` a dataframe, it can be used as input to LinearRegression(); 
 `df["Attendance"]` is a series, LinearRegression() would give an error that the dimension of the input is not correct
 
-- when you do multivariate linear regression, your X variable will look for example df[["Attendance", "Hours_Studied"]]
+- when you do multivariate linear regression, your X variable will look for example `df[["Attendance", "Hours_Studied"]]`
 
 
 ## NOTE : FROM THIS WEEK ON you will be penalized if your Github repo has the wrong structure (e.g. missing folders for homeworks) and if your HW folder misses the README file
