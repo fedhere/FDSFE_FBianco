@@ -1,6 +1,7 @@
 due 10/15 midnight
 
-## READING: 
+## READING (2 pages)
+: 
 
 https://www.nature.com/articles/nmeth.3812.pdf
 _Analyzing outliers: influential or nuisance?_
