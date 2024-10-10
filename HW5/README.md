@@ -11,7 +11,8 @@ _Analyzing outliers: influential or nuisance?_
 
 
 ## HW1: LOGISTIC REGRESSION 
-Perform all tasks as indicated in the notebook - only tasks in bold need to be completed. the other tasks are completed within the notebook, but you need to review them.
+Perform all tasks as indicated in the notebook FDSfE_logistic_regression_instuctions.ipynb
+ - only tasks in bold need to be completed. the other tasks are completed within the notebook, but you need to review them.
 
 Task 1: general data exploration
 Task 2: Preprocess the target variable (binary)
@@ -31,3 +32,5 @@ Task 4: Model: Logistic Regression
 **TODO 6: write a table caption: using the slides describe what each quantity above describes**
 **TODO 7: write a descriptive caption for the plot above**
 https://archive.ics.uci.edu/ml/datasets/bank+marketing#
+
+## extra credit: 
