@@ -34,3 +34,4 @@ Task 4: Model: Logistic Regression
 https://archive.ics.uci.edu/ml/datasets/bank+marketing#
 
 ## extra credit: 
+Instructions in Multiple_Linear_Regression.ipynb
