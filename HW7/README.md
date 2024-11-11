@@ -1,4 +1,4 @@
-# due 11/5 at midnight (11:59:59PM)
+# due 11/5 at midnight (11:59:59PM) - postponed 11/12 at midnight
 
 Finish notebook on clustering "INSTRUCTIONS Kaggle Customer Profile DBscan" (as per this folder)
 
